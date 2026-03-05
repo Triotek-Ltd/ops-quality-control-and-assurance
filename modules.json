@@ -1,0 +1,55 @@
+[
+  {
+    "module_code": "ops9_5",
+    "module_label": "OPS 9.5 - Audit Execution - Conducts compliance review; consists of audit findings record.",
+    "module_title": "Audit Execution - Conducts compliance review; consists of audit findings record.",
+    "module_slug": "audit_execution_conducts_compliance_review_consists_of_audit_findings_record",
+    "app_code": "ops9",
+    "app_label": "OPS 9 - Quality Control & Assurance",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops9_4",
+    "module_label": "OPS 9.4 - Corrective Action Issuance - Initiates fix; consists of remediation assignment.",
+    "module_title": "Corrective Action Issuance - Initiates fix; consists of remediation assignment.",
+    "module_slug": "corrective_action_issuance_initiates_fix_consists_of_remediation_assignment",
+    "app_code": "ops9",
+    "app_label": "OPS 9 - Quality Control & Assurance",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops9_3",
+    "module_label": "OPS 9.3 - Defect Logging - Captures quality failures; consists of defect classification entries.",
+    "module_title": "Defect Logging - Captures quality failures; consists of defect classification entries.",
+    "module_slug": "defect_logging_captures_quality_failures_consists_of_defect_classification_entries",
+    "app_code": "ops9",
+    "app_label": "OPS 9 - Quality Control & Assurance",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops9_1",
+    "module_label": "OPS 9.1 - Inspection Scheduling - Plans quality checks; consists of inspection calendar entries.",
+    "module_title": "Inspection Scheduling - Plans quality checks; consists of inspection calendar entries.",
+    "module_slug": "inspection_scheduling_plans_quality_checks_consists_of_inspection_calendar_entries",
+    "app_code": "ops9",
+    "app_label": "OPS 9 - Quality Control & Assurance",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_slug": "ops9_1"
+  },
+  {
+    "module_code": "ops9_2",
+    "module_label": "OPS 9.2 - Sample Testing - Records test results; consists of measurement logs.",
+    "module_title": "Sample Testing - Records test results; consists of measurement logs.",
+    "module_slug": "sample_testing_records_test_results_consists_of_measurement_logs",
+    "app_code": "ops9",
+    "app_label": "OPS 9 - Quality Control & Assurance",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  }
+]
